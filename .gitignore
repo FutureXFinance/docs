@@ -1,0 +1,96 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary folders
+tmp/
+temp/
+
+# Logs
+*.log
+logs/
+
+# Backup files
+*.backup
+*.bak
+*.old
+*~
+
+# Archives
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Node.js (if using any documentation generators)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python (if using any documentation generators)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated documentation
+_site/
+_build/
+.jekyll-cache/
+.sass-cache/
+
+# Gitbook
+_book/
+
+# VuePress
+.vuepress/dist/
+
+# Docusaurus
+.docusaurus/
+build/
+
+# Hugo
+public/
+
+# MkDocs
+site/
+
+# Sphinx
+_build/
+
+# Generated files
+*.pdf
+*.html
+!index.html
+
+# Environment variables (if any)
+.env
+.env*.local
+
+# Local drafts
+*draft*
+*Draft*
+*DRAFT*
+
+# Personal notes
+*personal*
+*Personal*
+*PERSONAL*
+*notes*
+*Notes*
+*NOTES*
