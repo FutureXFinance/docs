@@ -75,7 +75,6 @@ Financial institutions face:
 ## 📖 Quick Links
 
 - [GitHub Repository](https://github.com/FutureXFinance)
-- [Live Demo](https://futurexfinance.vercel.app) *(if available)*
 - [API Documentation](http://localhost:8000/docs)
 - [Contributing Guide](../CONTRIBUTING.md)
 
